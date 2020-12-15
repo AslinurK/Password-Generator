@@ -1,4 +1,4 @@
-Password Generator
+# Password Generator
 
 -Objectives: Create an application that generates a random password based on user-selected criteria.
 
